@@ -1,4 +1,4 @@
-# Child Journeys
+# Child Journeys - Discovery
 
 Understanding the journeys children take between services so we can understand their needs and better target the right level of service. This research was carried out with CWAC and Wigan Local Authorities.
 
